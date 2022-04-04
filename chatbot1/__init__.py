@@ -1,0 +1,1 @@
+from chatbot1.celery import app as celery_app
